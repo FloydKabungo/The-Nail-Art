@@ -1,0 +1,8 @@
+{
+  "note": "These are verified original product-image URLs from thenailart.co.za image results. They are referenced remotely by the design prototype and have not been locally downloaded or upscaled in this environment.",
+  "images": [
+    {"id":"acrylic","product":"Acrylic 12 colours 10ml powder SET A","url":"https://s3.amazonaws.com/images.ecwid.com/images/11664180/1665058627.jpg","store_product":"https://www.thenailart.co.za/online-store/Acrylic-12-colours-10ml-powder-SET-A-p236974319"},
+    {"id":"acrylic4","product":"12pcs Acrylic Powder Set 4 -10g","url":"https://d2j6dbq0eux0bg.cloudfront.net/images/11664180/3996847642.png","store_product":"https://www.thenailart.co.za/online-store/12pcs-Acrylic-Powder-Set-4-10g-p609526664"},
+    {"id":"clearance","product":"20pcs Manicure Gel Polish Set","url":"https://d2j6dbq0eux0bg.cloudfront.net/images/11664180/3998097113.jpg","store_product":"https://www.thenailart.co.za/online-store/Clearance-Sale-7-5ml-Gel-Polish-10pcs-Different-Colours-Send-random-ONLY-p382717587"}
+  ]
+}
